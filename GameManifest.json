@@ -1,17 +1,17 @@
 {
-  "PatchNote": "GL Update (259b7d016f964267)\n",
-  "UpdateDate": "08-04-2026 13:23",
-  "StringVersion": "259b7d016f964267-r90_er97c3tn4z0sjydpjmcb",
+  "PatchNote": "JP Update (r91_9smsemn9k2bsgwv2qdzq)\nGL Update (81ac02027d404f46)\n",
+  "UpdateDate": "21-04-2026 11:06",
+  "StringVersion": "81ac02027d404f46-r91_9smsemn9k2bsgwv2qdzq",
   "Files": [
-    {
-      "OriginalFileName": "ExcelDB.db",
-      "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_2062641314",
-      "Hash": 42074211
-    },
     {
       "OriginalFileName": "resources.assets",
       "Path": "BlueArchive_Data/resources.assets",
-      "Hash": 3909699037
+      "Hash": 2277719178
+    },
+    {
+      "OriginalFileName": "ExcelDB.db",
+      "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1223760390",
+      "Hash": 3539698759
     }
   ]
 }
