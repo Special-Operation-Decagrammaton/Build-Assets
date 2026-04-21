@@ -1,6 +1,6 @@
 {
-  "PatchNote": "JP Update (r91_9smsemn9k2bsgwv2qdzq)\nGL Update (81ac02027d404f46)\n",
-  "UpdateDate": "21-04-2026 11:06",
+  "PatchNote": "Forced Update\n",
+  "UpdateDate": "21-04-2026 15:45",
   "StringVersion": "81ac02027d404f46-r91_9smsemn9k2bsgwv2qdzq",
   "Files": [
     {
@@ -11,7 +11,7 @@
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1223760390",
-      "Hash": 3539698759
+      "Hash": 3402073066
     }
   ]
 }
