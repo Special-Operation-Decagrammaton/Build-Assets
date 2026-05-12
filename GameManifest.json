@@ -1,7 +1,7 @@
 {
-  "PatchNote": "Revert to old font asset\n",
-  "UpdateDate": "30-04-2026 11:19",
-  "StringVersion": "81ac02027d404f46-r91_9smsemn9k2bsgwv2qdzq",
+  "PatchNote": "GL Update (d8416e93ca49420e)\n",
+  "UpdateDate": "12-05-2026 02:32",
+  "StringVersion": "d8416e93ca49420e-r91_9smsemn9k2bsgwv2qdzq",
   "Files": [
     {
       "OriginalFileName": "resources.assets",
@@ -11,7 +11,7 @@
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1223760390",
-      "Hash": 1632539508
+      "Hash": 185363263
     }
   ]
 }
