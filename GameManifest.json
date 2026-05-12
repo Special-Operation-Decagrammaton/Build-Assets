@@ -1,0 +1,17 @@
+{
+  "PatchNote": "GL Update (d8416e93ca49420e)\n",
+  "UpdateDate": "12-05-2026 02:32",
+  "StringVersion": "d8416e93ca49420e-r91_9smsemn9k2bsgwv2qdzq",
+  "Files": [
+    {
+      "OriginalFileName": "resources.assets",
+      "Path": "BlueArchive_Data/resources.assets",
+      "Hash": 2277719178
+    },
+    {
+      "OriginalFileName": "ExcelDB.db",
+      "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1223760390",
+      "Hash": 185363263
+    }
+  ]
+}
