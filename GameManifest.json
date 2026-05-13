@@ -1,7 +1,7 @@
 {
-  "PatchNote": "GL Update (d8416e93ca49420e)\n",
-  "UpdateDate": "12-05-2026 02:32",
-  "StringVersion": "d8416e93ca49420e-r91_9smsemn9k2bsgwv2qdzq",
+  "PatchNote": "GL Update (013b1259132b4809)\n",
+  "UpdateDate": "13-05-2026 02:39",
+  "StringVersion": "013b1259132b4809-r91_9smsemn9k2bsgwv2qdzq",
   "Files": [
     {
       "OriginalFileName": "resources.assets",
@@ -11,7 +11,7 @@
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1223760390",
-      "Hash": 185363263
+      "Hash": 1049319208
     }
   ]
 }
